@@ -38,7 +38,7 @@ I'm a marketer turning into web developer.
          <li>rental users to search and booking for different studios</li>
         </ul> 
         </td>
-    <td>Next.js</td>
+    <td>Next.js, knex, postgres</td>
     <td>N/A</td>
     <td>Frontend & Backend Developer</td>
     <td>Working in Progress</td>
