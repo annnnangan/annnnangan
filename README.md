@@ -1,8 +1,5 @@
 ## Hi there 👋 I'm Anna
 
-<br>
-<br>
-
 # 💫 About Me:
 
 I'm a marketer turning into web developer.
