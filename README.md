@@ -38,7 +38,7 @@ I'm a marketer turning into web developer.
     <td>Next.js, knex, postgres</td>
     <td>N/A</td>
     <td>Frontend & Backend Developer</td>
-    <td><a href="[https://coding-8bit.site/](https://ksana-yoga-rental.site/)" target="_blank">🔗 Link to Website</a></td>
+    <td><a href="https://ksana-yoga-rental.site/" target="_blank">🔗 Link to Website</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/ahmomoz/Coding-8bit" target="_blank">Coding 8Bit</a></td>
